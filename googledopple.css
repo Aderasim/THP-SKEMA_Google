@@ -1,0 +1,127 @@
+html
+{
+    background-color: #fcfafa;
+}
+#headernav
+{
+    display:flex;
+    justify-content: space-between;
+    width: 150px;
+    position: relative;
+    left: 83%;
+    font-size: x-large;
+}
+.logo
+{
+    position: relative;
+    left: 38%;
+    top: 20%;
+}
+.loupe
+{
+    position: relative;
+    top: 21.5%;
+    left: 8%;
+}
+.rickastley
+{
+    position: relative;
+    bottom: 16%;
+    left: 65%;
+}
+.matthew
+{
+    border-radius: 30px;
+    position: relative;
+    bottom: 16%;
+    left: 65%;
+}
+#conteneurrb
+{
+    display: flex;
+    height: 22px;
+    width: 100px;
+    justify-content: center;
+    position: relative;
+    top: 170px ;
+    left: 47% ;
+    background-color: #eeeeee;
+    border-radius: 8px;
+}
+#conteneurrb:hover
+{
+    box-shadow: 2px 2px 2px 2px grey;
+}
+#searchbar
+{
+    position: relative;
+    top: 165px ;
+    left: 35%;
+    height: 30px ;
+    margin: 0;
+}
+.bar
+{
+    border-radius: 10px;
+    width: 500px;
+}
+.bar:hover
+{
+box-shadow: 3px 3px 3px 3px grey;
+width: 500px;
+}
+.button
+{
+    position: absolute;
+}
+#langue
+{
+    position: relative;
+    left: 45%;
+    top: 250px;
+}
+#bottomleft
+{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    position: relative;
+    top: 520px;
+    right: 40% ;
+    height: 40px;
+    width: 20% ;
+    background-color: rgb(228, 228, 228);
+}
+#bottomright
+{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 480px ;
+    left: 70%;
+    height: 40px;
+    width: 30%;
+    background-color: rgb(228, 228, 228);
+}
+#liner
+{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 560px ;
+    right: 13% ;
+    height: 40px;
+    width: 85%;
+    background-color:rgb(228, 228, 228);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.lienlangue
+{
+    color: cornflowerblue;
+}
